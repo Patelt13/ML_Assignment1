@@ -1,5 +1,7 @@
 # ML_Assignment1
 
+* AIM: Matrix  factorization for recommender system using gradient descent.
+
 * **Method** :
 *  Step 1: Defining a function matrix_factorization.
 *  Step 2: Define two matrix P1 and P2.
